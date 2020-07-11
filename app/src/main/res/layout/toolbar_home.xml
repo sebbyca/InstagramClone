@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#FFFFFF"
+    android:elevation="4dp" >
+
+    <ImageButton
+        android:id="@+id/btnCamera"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="0dp"
+        android:background="@android:color/transparent"
+        android:scaleType="centerInside"
+        android:tint="#000000"
+        android:clickable="true"
+        app:srcCompat="@drawable/camera_shadow_fill" />
+
+    <ImageView
+        android:id="@+id/instagramLogo"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="50dp"
+        app:srcCompat="@drawable/nav_logo_whiteout" />
+
+    <ImageButton
+        android:id="@+id/btnDirect"
+        android:layout_width="25dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="40dp"
+        android:background="@android:color/transparent"
+        android:scaleType="centerInside"
+        android:clickable="true"
+        app:srcCompat="@drawable/direct" />
+
+</androidx.appcompat.widget.Toolbar>
