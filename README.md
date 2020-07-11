@@ -21,7 +21,7 @@ The following **stretch** features are implemented:
 
 - [X] Style the login page to look like the real Instagram login page.
 - [X] Style the feed to look like the real Instagram feed.
-- [X] User should switch between different tabs - viewing all posts (feed view), capture (camera and photo gallery view) and profile tabs (posts made) using fragments and a Bottom Navigation View.
+- [ ] User should switch between different tabs - viewing all posts (feed view), capture (camera and photo gallery view) and profile tabs (posts made) using fragments and a Bottom Navigation View.
 - [ ] User can load more posts once he or she reaches the bottom of the feed using endless scrolling.
 - [X] Show the username and creation time for each post
 - [ ] After the user submits a new post, show an indeterminate progress bar while the post is being uploaded to Parse
@@ -31,7 +31,7 @@ The following **stretch** features are implemented:
   - [ ] Tapping on a post's username or profile photo goes to that user's profile page
   - [ ] User Profile shows posts in a grid view
 - [ ] User can comment on a post and see all comments for each post in the post details screen.
-- [X] User can like a post and see number of likes for each post in the post details screen.
+- [X] **User can like a post** and see number of likes for each post in the post details screen.
 
 The following **additional** features are implemented:
 
@@ -46,7 +46,9 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='walkthrough2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
